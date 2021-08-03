@@ -1,0 +1,16 @@
+.header{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    z-index:100;
+    border-bottom:1px solid #f1f1e4
+}
+.MuiSvgIcon-root{
+    object-fit:contain!important;
+    height:40px!important;
+    width:40px!important;
+}
+.header_logo{
+    object-fit:contain;
+    height:40px;
+}
